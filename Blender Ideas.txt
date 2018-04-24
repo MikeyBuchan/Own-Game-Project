@@ -1,16 +1,18 @@
-Pallet with cement bricks
-Pallet with stone bricks
-Cement bricks
+Pallet with cement bricks /
+Pallet with stone bricks /
+Cement bricks /
 Flower vases
-Trashcan
+Trashcan /
 Stone benches
 Something with light
 Simple working table
-Storage bins
-Trash bags
-Single pallets
+Storage box /
+Trash bags /
+Single pallets /
 Basket
 Small rocks
-Tires
+Tires /
+Tire Stack /
 Open wooden crates
-Concrete barricade
+Concrete barricade /
+Map1
