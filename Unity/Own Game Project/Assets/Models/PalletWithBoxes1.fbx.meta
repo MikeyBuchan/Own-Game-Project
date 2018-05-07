@@ -1,18 +1,16 @@
 fileFormatVersion: 2
-guid: 49e5c8e6e96fbd7498b67ce5f02d2b19
-timeCreated: 1524603252
+guid: c0d7266cc65935f42b8a276768605d2b
+timeCreated: 1524688772
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Map
-    2100002: T
-    2100004: CT
+    2100000: No Name
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Plane.001
+    4300000: Cube.001
   externalObjects: {}
   materials:
     importMaterials: 1
